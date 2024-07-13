@@ -21,7 +21,7 @@
                 <option value="BlueViolet">Violeta</option>
                 <option value="Gray">Gris</option>
                 <option value="Cyan">Cyan</option>
-                <option value="Negro">Negro</option>
+                <option value="black">Negro</option>
             </select>
         </div>
     </div>
