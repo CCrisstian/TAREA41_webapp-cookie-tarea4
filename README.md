@@ -10,7 +10,7 @@
 
 Con `${cookie.color.getValue()}` obtenemos el valor de la cookie en una jsp, donde `color` es el nombre de la cookie.
 
-- Ademas tener un párrafo con el elemento <p> con un texto cualquiera que también cambie de color según la cookie.
+- Ademas tener un párrafo con el elemento `<p>` con un texto cualquiera que también cambie de color según la cookie.
 - Ademas de un pequeño formulario solo con un campo select con las opciones de 7 colores css, por ejemplo:
 ```jsp
                     <select name="color" id="color">
